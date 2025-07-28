@@ -1,0 +1,127 @@
+#header{
+    text-align: center;
+}
+
+
+#btns{
+    display: block;
+    font-size: 10em;
+    text-align: center;
+
+
+}
+
+
+#btns-container{
+    text-align: center;
+    
+}
+
+#decBtn{
+    background-color: blue;
+    color: aliceblue;
+    font-size: 2em;
+    padding: 10px;
+    
+}
+
+#increBtn{
+    background-color: blue;
+    color: aliceblue;
+    font-size: 2em;
+    padding: 10px 20px;
+    
+}
+
+#increBtn:hover{
+    background-color: rgb(92, 92, 205);
+
+}
+
+
+#decBtn:hover{
+    background-color: rgb(92, 92, 205);
+
+}
+
+
+#resetBtn:hover{
+    background-color: rgb(92, 92, 205);
+
+}
+
+#resetBtn{
+     background-color: blue;
+    color: aliceblue;
+    font-size: 2em;
+    padding: 10px 20px;
+  
+}
+
+.button:hover{
+    cursor: pointer;
+
+}
+/* 
+body{
+    text-align: center;
+} */
+
+#myButton{
+    padding: 20px;
+    font-size: 2em;
+    border-radius: 10px;
+    background-color: aquamarine;
+}
+
+#myButton:hover{
+    cursor: pointer;
+    background-color: rgb(164, 220, 201);
+}
+
+#myLabel{
+    text-align: center;
+    font-size: 5em;
+}
+
+#btnd{
+    height: 30px;
+    font-size: 1.3em;
+    
+}
+
+#bael{
+    font-size: 2em;
+}
+
+#btnd-submit{
+    height: 40px;
+    border-radius: 5px;
+    font-size: 1.5em;
+}
+
+#btnd-submit:hover{
+    cursor: pointer;
+    background-color: rgb(192, 174, 151);
+}
+
+p{
+    font-size: 2em;
+}
+
+.myButtons{
+    font-size: 2em;
+}
+#mySubmit{
+    font-size: 1em;
+}
+
+#subResult{
+    font-size: 2em;
+}
+
+#
+#paymentResult{
+    font-size: 2em;
+}
+
